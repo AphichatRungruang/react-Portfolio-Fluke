@@ -7,20 +7,16 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm Ada</h1>
+        <h1 className={styles.title}>Hi, I'm Fluke</h1>
         <p className={styles.description}>
-          I'm a full-stack developer with 5 years of experience using React and
-          NodeJS. Reach out if you'd like to learn more!
+        Hello My name is Aphichat Rungruang or call me Fluke. i am a Unity Deverloper 
+        I love games and Happy when everyone can play my game.I feel like haven't developed myself enough.
         </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>
+        <a href="mailto:Aphichatrungruang@gmail.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
-      <img
-        src={getImageUrl("hero/heroImage.png")}
-        alt="Hero image of me"
-        className={styles.heroImg}
-      />
+     
       <div className={styles.topBlur} />
       <div className={styles.bottomBlur} />
     </section>

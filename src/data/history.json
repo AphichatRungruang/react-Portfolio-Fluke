@@ -1,29 +1,35 @@
 [
   {
-    "role": "Software Engineer",
-    "organisation": "Google",
-    "startDate": "Sept, 2022",
-    "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-    "imageSrc": "history/google.png"
+    "role": "JR.Unity Game developer",
+    "organisation": "(Intern at InnovaInteractive Studio)",
+    "startDate": "2021",
+    "endDate": "2021",
+    "experiences": ["I work on all kinds of gameplay development projects ",
+                     "learning Includes how-to code and optimization tips. ", 
+                    " I learned a lot of ways to make games VR AR . I learn to work as a team and division of duties"]
+  },
+
+  {
+    "role": "JR.Unity Game developer",
+    "organisation": "(freelance at InnovaInteractive Studio)",
+    "startDate": "2021",
+    "endDate": " 2022",
+    "experiences": ["I learned to use Git to work seamlessly with the team and learned FireBase used to store data. ",
+                    "Creating an online game with Pun2 and learn game design concepts and logic."]
   },
   {
-    "role": "UI Designer",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2021",
-    "endDate": "Aug, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
-    "imageSrc": "history/microsoft.png"
-  },
-  {
-    "role": "SWE Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
+    "role": "Unity Programmer",
+    "organisation": "(Fulltime at MetaverseXR co,th)",
+    "startDate": "2022",
+    "endDate": "2023",
     "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
-    ],
-    "imageSrc": "history/netflix.png"
+      "learned to make online games and Metaverse.", 
+      "this time i learn more on how to deverlop game on ios. ",
+      "this time I learned more interactive game for example Kinect and AR technology Nreal. ",
+      "I have been assigned to many big projects. Here I work with the team backend developer ",
+      "I'm interested RestApi and Golang . ",
+      "This place always gives me a challenge."
+    ]
+    
   }
 ]
