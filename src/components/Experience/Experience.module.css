@@ -3,9 +3,23 @@
 .container {
   color: var(--color-text);
   margin-top: 90px;
-  margin-left: 10%;
-  margin-right: 10%;
-  margin-bottom: 10%;
+  margin-left: 0%;
+  margin-right: 0%;
+  margin-bottom: 90px;
+
+  
+  padding-top: 10px;
+  padding-bottom: 10%;
+  padding-left: 10%;
+  padding-right: 10px;
+
+
+  background-image: url("/assets/image/bfdd.png");
+  background-position: center;
+
+  background-size:     cover;                     
+  background-repeat:   no-repeat;
+  background-position: center center; 
 }
 
 .title {
@@ -23,13 +37,25 @@
   padding-bottom: px;
   padding-left: 0px;
   padding-right: 0px;
+
+  
 }
 
 .content {
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
-  margin-top: 14px;
+ 
+
+  margin-top: 0px;
+  margin-left: 0%;
+  margin-right: 0%;
+  margin-bottom: 50px;
+
+  padding-top: 0px;
+  padding-bottom: px;
+  padding-left: 0px;
+  padding-right: 0px;
 }
 
 .skills {
@@ -37,6 +63,8 @@
   display: flex;
   flex-wrap: wrap;
   gap: 37px;
+
+  
 }
 
 .skill {
@@ -44,26 +72,35 @@
   flex-direction: column;
   align-items: center;
   gap: 11px;
+
+
+  
 }
 
 .skillImageContainer {
-  background-color: var(--color-secondary);
+  background-color: rgb(15, 24, 66);
   border-radius: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
   width: 120px;
   height: 120px;
+  
+  
 }
 
 .skillImageContainer img {
   width: 75px;
+
+  
 }
 
 .skill p {
   font-size: 25px;
   font-family: var(--font-roboto);
   font-weight: 500;
+
+  
 }
 
 .history {
@@ -79,7 +116,7 @@
   align-items: center;
   gap: 17px;
   background: #19376d;
-  background: linear-gradient(90deg, #19376d 0%, rgba(25, 55, 109, 0) 100%);
+  background: linear-gradient(90deg, #1e3c72 0%, rgba(0, 225, 255, 0) 100%);
   border-radius: 10px;
   padding: 24px;
 }

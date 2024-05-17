@@ -31,7 +31,9 @@ export const Experience = () => {
         </ul>
         
       </div>
+     
       <h2 className={styles.title}>MySkill</h2>
+      <li className={styles.historyItem}>
       <div className={styles.skills}>
           {skills.map((skill, id) => {
             return (
@@ -43,7 +45,9 @@ export const Experience = () => {
               </div>
             );
           })}
+
         </div>
+        </li>
     </section>
   );
 };
