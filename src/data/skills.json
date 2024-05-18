@@ -36,6 +36,18 @@
     "imageSrc": "skills/node-js-icon.png"
   },
   {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript-logo.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/CSS3_logo.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
     "title": "MySQL",
     "imageSrc": "skills/MySQL.png"
   },

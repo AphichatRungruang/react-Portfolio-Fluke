@@ -14,6 +14,9 @@ export const Projects = () => {
           return <ProjectCard key={id} project={project} />;
         })}
       </div>
+      <a href="https://www.behance.net/aphichatuttama" className={styles.contactBtn}>
+          Read more
+      </a>
     </section>
   );
 };
